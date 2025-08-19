@@ -238,27 +238,5 @@ Potential improvements for future versions:
 - **Advanced Filtering**: Distance-based filtering with geolocation
 - **Calendar Integration**: Export events to personal calendars
 
-## 🤝 Contributing
 
-This project was created as part of a Frontend Developer Intern assignment. For contributions:
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
-## 📄 License
-
-This project is created for educational purposes as part of a technical assignment.
-
-## 📞 Contact
-
-For questions about this project or the assignment, please refer to the submission guidelines provided by StarLabs.
-
----
-
-**Assignment Details:**
-- **Position**: Frontend Developer Intern
-- **Company**: StarLabs
-- **Submission**: https://www.starlabs.co.in/assignment
-- **Timeline**: 2-3 days from assignment receipt
