@@ -1,6 +1,6 @@
 # EventHub - Local Community Events Discovery Platform
 
-A modern React-based web application for discovering and joining local community events. Built as part of a Frontend Developer Intern assignment, this platform enables users to explore workshops, meetups, sports activities, and social gatherings in their area.
+A modern React-based web application for discovering and joining local community events. This platform enables users to explore workshops, meetups, sports activities, and social gatherings in their area.
 
 ## 🌟 Features
 
@@ -237,6 +237,7 @@ Potential improvements for future versions:
 - **Mobile App**: React Native version
 - **Advanced Filtering**: Distance-based filtering with geolocation
 - **Calendar Integration**: Export events to personal calendars
+
 
 
 
